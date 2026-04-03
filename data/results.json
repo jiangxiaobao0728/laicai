@@ -1,0 +1,190 @@
+[
+  {
+    "timestamp": "2026-04-03T10:00:00Z",
+    "primaryType": "slash",
+    "primaryName": "斜杠青年",
+    "primaryScore": 85,
+    "secondaryType": "investor",
+    "secondaryName": "投资小能手",
+    "secondaryScore": 72,
+    "mixedLabel": "斜杠投资者",
+    "lieScore": 20,
+    "scores": [
+      {
+        "id": "slash",
+        "name": "斜杠青年",
+        "percentage": 85
+      },
+      {
+        "id": "investor",
+        "name": "投资小能手",
+        "percentage": 72
+      },
+      {
+        "id": "climber",
+        "name": "职场卷王",
+        "percentage": 45
+      },
+      {
+        "id": "connector",
+        "name": "社交调解者",
+        "percentage": 60
+      }
+    ],
+    "receivedAt": "2026-04-03T03:35:10.155Z"
+  },
+  {
+    "timestamp": "2026-04-02T14:00:00Z",
+    "primaryType": "investor",
+    "primaryName": "投资小能手",
+    "primaryScore": 90,
+    "secondaryType": "slash",
+    "secondaryName": "斜杠青年",
+    "secondaryScore": 55,
+    "mixedLabel": "投资小能手",
+    "lieScore": 10,
+    "scores": [],
+    "receivedAt": "2026-04-03T03:35:30.119Z"
+  },
+  {
+    "timestamp": "2026-04-02T16:00:00Z",
+    "primaryType": "climber",
+    "primaryName": "职场卷王",
+    "primaryScore": 78,
+    "secondaryType": "connector",
+    "secondaryName": "社交调解者",
+    "secondaryScore": 65,
+    "mixedLabel": "职场卷王（主）+ 社交调解者（辅）",
+    "lieScore": 30,
+    "scores": [],
+    "receivedAt": "2026-04-03T03:35:30.363Z"
+  },
+  {
+    "timestamp": "2026-04-03T09:00:00Z",
+    "primaryType": "connector",
+    "primaryName": "社交调解者",
+    "primaryScore": 82,
+    "secondaryType": "slash",
+    "secondaryName": "斜杠青年",
+    "secondaryScore": 70,
+    "mixedLabel": "社交型卷王",
+    "lieScore": 15,
+    "scores": [],
+    "receivedAt": "2026-04-03T03:35:30.426Z"
+  },
+  {
+    "timestamp": "2026-04-03T11:00:00Z",
+    "primaryType": "slash",
+    "primaryName": "斜杠青年",
+    "primaryScore": 92,
+    "secondaryType": "connector",
+    "secondaryName": "社交调解者",
+    "secondaryScore": 60,
+    "mixedLabel": "斜杠青年",
+    "lieScore": 5,
+    "scores": [],
+    "receivedAt": "2026-04-03T03:35:30.495Z"
+  },
+  {
+    "timestamp": "2026-04-03T03:40:02.913Z",
+    "primaryType": "climber",
+    "primaryName": "职场卷王",
+    "primaryScore": 84,
+    "secondaryType": "connector",
+    "secondaryName": "社交调解者",
+    "secondaryScore": 84,
+    "mixedLabel": "社交型卷王",
+    "lieScore": 70,
+    "scores": [
+      {
+        "id": "climber",
+        "name": "职场卷王",
+        "percentage": 84
+      },
+      {
+        "id": "connector",
+        "name": "社交调解者",
+        "percentage": 84
+      },
+      {
+        "id": "slash",
+        "name": "斜杠青年",
+        "percentage": 48
+      },
+      {
+        "id": "investor",
+        "name": "投资小能手",
+        "percentage": 40
+      }
+    ],
+    "receivedAt": "2026-04-03T03:40:02.692Z"
+  },
+  {
+    "timestamp": "2026-04-03T03:40:28.473Z",
+    "primaryType": "investor",
+    "primaryName": "投资小能手",
+    "primaryScore": 76,
+    "secondaryType": "climber",
+    "secondaryName": "职场卷王",
+    "secondaryScore": 72,
+    "mixedLabel": "投资型攀登者",
+    "lieScore": 60,
+    "scores": [
+      {
+        "id": "investor",
+        "name": "投资小能手",
+        "percentage": 76
+      },
+      {
+        "id": "climber",
+        "name": "职场卷王",
+        "percentage": 72
+      },
+      {
+        "id": "connector",
+        "name": "社交调解者",
+        "percentage": 72
+      },
+      {
+        "id": "slash",
+        "name": "斜杠青年",
+        "percentage": 64
+      }
+    ],
+    "receivedAt": "2026-04-03T03:40:28.409Z"
+  },
+  {
+    "timestamp": "2026-04-03T03:42:28.444Z",
+    "primaryType": "investor",
+    "primaryName": "投资小能手",
+    "primaryScore": 68,
+    "secondaryType": "climber",
+    "secondaryName": "职场卷王",
+    "secondaryScore": 68,
+    "mixedLabel": "投资型攀登者",
+    "lieScore": 60,
+    "scores": [
+      {
+        "id": "investor",
+        "name": "投资小能手",
+        "percentage": 68
+      },
+      {
+        "id": "climber",
+        "name": "职场卷王",
+        "percentage": 68
+      },
+      {
+        "id": "slash",
+        "name": "斜杠青年",
+        "percentage": 64
+      },
+      {
+        "id": "connector",
+        "name": "社交调解者",
+        "percentage": 56
+      }
+    ],
+    "receivedAt": "2026-04-03T03:42:28.437Z"
+  }
+]
